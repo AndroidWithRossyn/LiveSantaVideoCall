@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.SelectsSantaAudioActivity">
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/wish"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_marginTop="30dp"
+        app:lottie_autoPlay="true"
+        app:lottie_fileName="wish.json"
+        app:lottie_loop="true" />
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_below="@+id/wish"
+        android:layout_height="match_parent">
+
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/native_ads1"
+            android:layout_margin="5dp"
+            android:background="@color/white">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <RelativeLayout
+                    android:id="@+id/rl1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp">
+
+                    <ImageView
+                        android:id="@+id/one"
+                        android:layout_width="300dp"
+                        android:layout_height="280dp"
+                        android:layout_alignParentTop="true"
+                        android:elevation="10dp"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/ek" />
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/bl1"
+                        android:layout_width="200dp"
+                        android:layout_height="40dp"
+                        android:layout_below="@+id/one"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="8dp"
+                        app:cardBackgroundColor="@color/background_advice"
+                        app:cardCornerRadius="20dp">
+
+                        <TextView
+                            android:id="@+id/t1"
+                            android:layout_width="200dp"
+                            android:layout_height="40dp"
+                            android:layout_gravity="center_vertical"
+                            android:elevation="10dp"
+                            android:gravity="center"
+                            android:padding="5dp"
+                            android:scaleType="fitXY"
+                            android:text="Pixie"
+                            android:textColor="@color/white"
+                            android:textSize="17dp"
+                            android:textStyle="bold" />
+                    </androidx.cardview.widget.CardView>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/rl2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_toRightOf="@+id/rl1">
+
+                    <ImageView
+                        android:id="@+id/two"
+                        android:layout_width="300dp"
+                        android:layout_height="280dp"
+                        android:elevation="10dp"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/don" />
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/bl2"
+                        android:layout_width="200dp"
+                        android:layout_height="40dp"
+                        android:layout_below="@+id/two"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="8dp"
+                        app:cardBackgroundColor="@color/background_advice"
+                        app:cardCornerRadius="20dp">
+
+                        <TextView
+                            android:id="@+id/t2"
+                            android:layout_width="200dp"
+                            android:layout_height="40dp"
+                            android:layout_gravity="center_vertical"
+                            android:elevation="10dp"
+                            android:gravity="center"
+                            android:padding="5dp"
+                            android:scaleType="fitXY"
+                            android:text="Glitzy"
+                            android:textColor="@color/white"
+                            android:textSize="17dp"
+                            android:textStyle="bold" />
+                    </androidx.cardview.widget.CardView>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/rl3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_toRightOf="@+id/rl2">
+
+                    <ImageView
+                        android:id="@+id/three"
+                        android:layout_width="300dp"
+                        android:layout_height="280dp"
+                        android:elevation="10dp"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/tin" />
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/bl3"
+                        android:layout_width="200dp"
+                        android:layout_height="40dp"
+                        android:layout_below="@+id/three"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="8dp"
+                        app:cardBackgroundColor="@color/background_advice"
+                        app:cardCornerRadius="20dp">
+
+                        <TextView
+                            android:id="@+id/t3"
+                            android:layout_width="200dp"
+                            android:layout_height="40dp"
+                            android:layout_gravity="center_vertical"
+                            android:elevation="10dp"
+                            android:gravity="center"
+                            android:padding="5dp"
+                            android:scaleType="fitXY"
+                            android:text="Cosmo"
+                            android:textColor="@color/white"
+                            android:textSize="17dp"
+                            android:textStyle="bold" />
+                    </androidx.cardview.widget.CardView>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/rl4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_toRightOf="@+id/rl3">
+
+                    <ImageView
+                        android:id="@+id/four"
+                        android:layout_width="300dp"
+                        android:layout_height="280dp"
+                        android:elevation="10dp"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/chaar" />
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/bl4"
+                        android:layout_width="200dp"
+                        android:layout_height="40dp"
+                        android:layout_below="@+id/four"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="8dp"
+                        app:cardBackgroundColor="@color/background_advice"
+                        app:cardCornerRadius="20dp">
+
+                        <TextView
+                            android:id="@+id/t4"
+                            android:layout_width="200dp"
+                            android:layout_height="40dp"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginLeft="20dp"
+                            android:layout_marginRight="20dp"
+                            android:elevation="10dp"
+                            android:gravity="center"
+                            android:padding="5dp"
+                            android:scaleType="fitXY"
+                            android:text="Jolly"
+                            android:textColor="@color/white"
+                            android:textSize="17dp"
+                            android:textStyle="bold" />
+                    </androidx.cardview.widget.CardView>
+                </RelativeLayout>
+
+            </RelativeLayout>
+        </HorizontalScrollView>
+    </androidx.core.widget.NestedScrollView>
+
+    <LinearLayout
+        android:id="@+id/native_ads1"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical">
+
+    </LinearLayout>
+
+    <!--    <LinearLayout-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="160dp"-->
+    <!--        android:layout_alignParentTop="true"-->
+    <!--        android:background="@drawable/upper"-->
+    <!--        android:orientation="vertical">-->
+
+    <!--    </LinearLayout>-->
+
+
+    <!--        <com.airbnb.lottie.LottieAnimationView-->
+    <!--            android:id="@+id/lottieVideo"-->
+    <!--            android:layout_width="match_parent"-->
+    <!--            android:layout_height="match_parent"-->
+    <!--            android:layout_marginTop="30dp"-->
+    <!--            android:scaleType="fitXY"-->
+    <!--            app:lottie_autoPlay="true"-->
+    <!--            app:lottie_fileName="christmas_tree.json"-->
+    <!--            app:lottie_loop="true" />-->
+</RelativeLayout>
+
+

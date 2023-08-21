@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/drawable-v24/bg_white_corner_round.xml" value="0.2425" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/drawable-v24/cadr_recieve_msg.xml" value="0.2345" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/drawable-v24/extra_new.xml" value="0.2345" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/drawable-v24/rect_round.xml" value="0.2425" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/drawable/b1_card_shadow.xml" value="0.205" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/drawable/bottom.xml" value="0.2345" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/drawable/cadr_send_msg.xml" value="0.205" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/drawable/chat_santa.xml" value="0.2425" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/drawable/check_uncheck.xml" value="0.2425" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/drawable/checked_chckbox.xml" value="0.2425" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/drawable/circle_shape.xml" value="0.2425" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/drawable/correct_black.xml" value="0.2425" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/drawable/dialog_part.xml" value="0.2425" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/drawable/phone_santa.xml" value="0.2425" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/drawable/uncheck_checkbox.xml" value="0.2425" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/drawable/upper.xml" value="0.2345" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/drawable/video_santa.xml" value="0.2425" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/activity_advice.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/activity_chat.xml" value="0.3687179487179487" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/activity_christmas.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/activity_dashboard.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/activity_exit.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/activity_first_loading_page.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/activity_four.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/activity_main.xml" value="0.36041666666666666" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/activity_mrs_santa_chat.xml" value="0.3687179487179487" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/activity_mrs_santa_reject_video_call.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/activity_one.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/activity_play_audio_call.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/activity_play_audio_call_one.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/activity_play_audio_call_two.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/activity_play_audio_four.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/activity_play_mrs_santa_audio_call.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/activity_play_mrs_santa_video_call.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/activity_play_video_call.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/activity_play_video_new_two.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/activity_play_video_one.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/activity_privacy_policy.xml" value="0.25" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/activity_reject_audio_call.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/activity_reject_audio_call_four.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/activity_reject_audio_call_one.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/activity_reject_audio_call_two.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/activity_reject_mrs_santa_audio_call.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/activity_reject_video_call.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/activity_reject_video_call_one.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/activity_reject_video_call_two.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/activity_select_santa.xml" value="0.35817104149026247" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/activity_selects_santa_audio.xml" value="0.36041666666666666" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/activity_splash.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/activity_thop_thank_uactivity.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/activity_three.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/activity_time_picker_dialog.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/activity_two.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/activity_vpnactivity.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/card_view_chat_msg_me.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/card_view_chat_msg_you.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/dialog_audio.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/fragment_chat_new.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/installnewappdialog.xml" value="0.36041666666666666" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/layout_country_list.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/layout_server_fragmnet.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/santa_claus_cardview.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/vpn_dialog.xml" value="0.37447916666666664" />
+        <entry key="..\:/Users/Anil/LiveSantaVideoCall/app/src/main/res/layout/z1_ads_loading_dialog_inter.xml" value="0.19739583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
